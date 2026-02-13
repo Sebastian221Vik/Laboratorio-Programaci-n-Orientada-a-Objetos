@@ -1,0 +1,5 @@
+﻿Los archivos tienen como finalidad 
+guardar datos de forma permanente.
+Una vez que acaba la aplicación, 
+los datos siguen disponibles para que otra aplicación 
+pueda recuperarlos, para su consulta o modificación.
